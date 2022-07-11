@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex:1;
+    background-color:rgb(248, 242, 242);    
+}
+
+.img {
+    border-radius: 5%;
+}
+
+h1 {margin-top: 400px;}
+
+
